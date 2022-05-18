@@ -47,6 +47,25 @@ input{
   color: rgb(201, 201, 7);
 }
 
+.navbar{
+  background-color: rgb(90, 223, 243);
+}
+
+a{
+  text-decoration: none;
+}
+
+li{
+  list-style: none;
+  display: inline;
+  margin-right: 10px;
+}
+
+li :hover{
+  text-decoration: underline;
+  color: red;
+}
+
 
 /* .App-logo {
   height: 40vmin;
